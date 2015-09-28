@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.31499.svg)](http://dx.doi.org/10.5281/zenodo.31499)
+
 # FantomEnhancers.hg19
 
 The goal of this package is to easily extract the genomic positions and the normalized expression of Fantom's enhancers (in TPM) in hg19.
